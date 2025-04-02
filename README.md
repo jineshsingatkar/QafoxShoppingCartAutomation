@@ -55,7 +55,7 @@ The project uses the following main dependencies:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jineshsingatkar/QafoxShoppingCartAutomation.git
    cd QafoxShoppingCartAutomation
    ```
 
