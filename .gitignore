@@ -21,6 +21,7 @@
 
 # virtual machine crash logs
 hs_err_pid*
+replay_pid*
 
 # Maven
 target/
@@ -36,11 +37,6 @@ mvnw.cmd
 .classpath
 .project
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db 
+# ChromeDriver
+chromedriver.exe
+chromedriver 
